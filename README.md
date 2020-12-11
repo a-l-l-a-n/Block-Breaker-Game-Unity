@@ -1,5 +1,5 @@
 # Block-Breaker-Game-Unity
-    This game is about breaking the floating blocks with a ball without making the ball fall to the ground with the help of a paddle which gives
+  This game is about breaking the floating blocks with a ball without making the ball fall to the ground with the help of a paddle which gives
   the ball inertia to hit the floating blocks.
   
   # Repository Instructions
