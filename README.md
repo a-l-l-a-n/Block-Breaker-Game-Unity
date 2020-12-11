@@ -1,4 +1,5 @@
 # Game-Images:
+![alt text](https://github.com/a-l-l-a-n/Block-Breaker-Game-Unity/blob/main/Game_Images/Menu_Screen.png)
   
 # Block-Breaker-Game-Unity
   This game is about breaking the floating blocks with a ball without making the ball fall to the ground with the help of a paddle which gives
